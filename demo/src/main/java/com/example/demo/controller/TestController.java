@@ -13,7 +13,7 @@ public class TestController {
 
 	@GetMapping("/print")
 	public String helloworld() {
-		return "build Test";
+		return "build Test2";
 
 	}
 
