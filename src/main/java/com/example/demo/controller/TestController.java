@@ -14,8 +14,8 @@ public class TestController {
 
 	@GetMapping("/print")
 	public String helloworld() {
-		System.out.println("원격 자동 빌드 유발");
-		return "build test5";
+
+		return "원격 빌드 유발";
 
 	}
 
