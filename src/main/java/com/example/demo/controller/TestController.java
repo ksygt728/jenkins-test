@@ -1,7 +1,5 @@
 package com.example.demo.controller;
 
-import java.lang.System.Logger;
-
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
