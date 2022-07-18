@@ -17,4 +17,11 @@ public class TestController {
 
 	}
 
+	@GetMapping("/output")
+	public String output() {
+
+		return "say output";
+
+	}
+
 }
